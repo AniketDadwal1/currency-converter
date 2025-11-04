@@ -34,9 +34,5 @@ It allows users to convert between different currencies in real-time using live 
    cd currency-converter
 npm install
 npm run dev
-│
-├── package.json
-├── vite.config.js
-├── .gitignore
-└── README.md
+
 ⭐ If you like this project, don’t forget to star the repo!
