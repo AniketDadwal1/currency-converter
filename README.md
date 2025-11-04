@@ -34,23 +34,6 @@ It allows users to convert between different currencies in real-time using live 
    cd currency-converter
 npm install
 npm run dev
-
-
-Currency-Converter/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── Components/
-│   │   ├── InputBox.jsx
-│   │   └── input.js
-│   ├── hooks/
-│   │   ├── UseCurrencyInfo.js
-│   │   └── assets/react.svg
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
 │
 ├── package.json
 ├── vite.config.js
