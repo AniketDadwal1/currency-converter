@@ -33,6 +33,8 @@ It allows users to convert between different currencies in real-time using live 
    ```bash
    cd currency-converter
 npm install
+
+
 npm run dev
 
 ⭐ If you like this project, don’t forget to star the repo!
